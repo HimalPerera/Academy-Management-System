@@ -1,0 +1,7 @@
+stu1 test1
+stu2 test2
+stu3 test3
+stu4 test4
+
+stu1	test6
+stu1	test6

@@ -1,0 +1,2 @@
+stu1	student1	tut1	tutor1	4	2	13	16	1100
+stu2	student2	tut2	tutor2	3	5	15	18	1300

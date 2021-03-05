@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1614958644 source:c:\users\himal\desktop\academy management system\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<cstdlib>
+	<iomanip>
+
